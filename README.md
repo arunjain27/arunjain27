@@ -47,18 +47,16 @@ I am a passionate software developer with experience in creating efficient and s
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-00979D?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <!-- Frontend -->
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -79,15 +77,16 @@ I am a passionate software developer with experience in creating efficient and s
 ### 💼 **Experience**
 
 - **Software Developer** at Motherson Technology Services Limited (July 2024 – Present)  
-  - Developed an attendance management system with Spring Boot and MySQL, integrating global API for accurate time zone tracking.
-  - Used JPA repository for scalable data management and real-time check-ins.
+  - Spearheaded the development of an attendance management system using **Spring Boot** and **MySQL**, incorporating a global API for accurate time zone tracking.
+  - Implemented **JPA repository** for efficient data management and ensured real-time check-ins with photo upload verification.
 
 - **Web Developer Intern** at Mirus Solutions Pvt Ltd (July 2023 - August 2023)  
-  - Designed responsive websites using HTML, CSS, and JavaScript, optimized for performance and accessibility.
-  - Achieved a Lighthouse score of 96% in accessibility, 90% in SEO.
+  - Crafted responsive and performance-optimized websites using **HTML**, **CSS**, and **JavaScript**.
+  - Enhanced website accessibility and SEO, achieving Lighthouse scores of 96% in accessibility and 90% in SEO.
 
 - **Freelancer** (March 2023 - April 2023)  
-  - Developed a full-featured e-commerce platform with integrated PayPal, reducing payment processing time by 30%.
+  - Developed a comprehensive e-commerce platform for gift and stationery sales, integrating **PayPal** for seamless transactions and reducing payment processing time by 30%.
+  - Designed an **Admin Portal** to facilitate efficient product management and scalability.
 
 ---
 
