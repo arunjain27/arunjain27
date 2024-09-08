@@ -1,26 +1,33 @@
 # Hi, I'm Arun Jain 👋
 
-![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-
-**Aspiring Software Engineer | Crafting user-focused and scalable solutions**
+<div style="display: flex; align-items: center;">
+  <img src="./downloadgithub.jpeg" alt="Coding" width="200"/>
+  <div>
+    <strong>Aspiring Software Engineer | Crafting user-focused and scalable solutions</strong>
+  </div>
+</div>
 
 ---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Location-New_Delhi,_India-0078D4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Email-arunjain2704%40gmail.com-red?style=for-the-badge" />
-</div>
-
-<div align="center">
-  <a href="https://linkedin.com/in/arunjain27">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://arunjain27.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://geeksforgeeks.org/user/arunjain2704">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
+<div align="left">
+  <table>
+    <tr>
+      <td><strong>LinkedIn:</strong></td>
+      <td><a href="https://linkedin.com/in/arunjain27">https://linkedin.com/in/arunjain27</a></td>
+    </tr>
+    <tr>
+      <td><strong>GitHub:</strong></td>
+      <td><a href="https://github.com/arunjain27">https://github.com/arunjain27</a></td>
+    </tr>
+    <tr>
+      <td><strong>Email:</strong></td>
+      <td><a href="mailto:arunjain2704@gmail.com">arunjain2704@gmail.com</a></td>
+    </tr>
+    <tr>
+      <td><strong>GeeksforGeeks:</strong></td>
+      <td><a href="https://geeksforgeeks.org/user/arunjain2704">https://geeksforgeeks.org/user/arunjain2704</a></td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -103,14 +110,13 @@ I am a passionate software developer with experience in creating efficient and s
   <a href="https://linkedin.com/in/arunjain27">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/arunjain27">
-    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" />
-  </a>
+
   <a href="mailto:arunjain2704@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" />
   </a>
-  <a href="https://geeksforgeeks.org/user/arunjain2704">
-    <img src="https://img.icons8.com/fluency/48/000000/geeksforgeeks.png" alt="GeeksforGeeks" />
+  <a href="https://www.instagram.com/arunjain2704/?next=%2F">
+    <img src="https://img.icons8.com/color/50/000000/instagram-new.png" alt="Instagram" />
   </a>
 </div>
+
 
