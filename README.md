@@ -84,7 +84,7 @@ I am a passionate software developer with experience in creating efficient and s
   - Crafted responsive and performance-optimized websites using **HTML**, **CSS**, and **JavaScript**.
   - Enhanced website accessibility and SEO, achieving Lighthouse scores of 96% in accessibility and 90% in SEO.
 
-- **Freelancer** (March 2023 - April 2023)  
+- **Freelancer** (March 2023 - September 2023)  
   - Developed a comprehensive e-commerce platform for gift and stationery sales, integrating **PayPal** for seamless transactions and reducing payment processing time by 30%.
   - Designed an **Admin Portal** to facilitate efficient product management and scalability.
 
