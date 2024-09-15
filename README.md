@@ -34,7 +34,7 @@
 
 ### 👨‍💻 About Me
 
-I am a passionate software developer with experience in creating efficient and scalable applications at **Motherson Technology Services Limited**. My aim is to innovate and deliver solutions that enhance digital experiences and streamline workflows.
+I am a passionate software engineer trainee with experience in creating efficient and scalable applications at **Motherson Technology Services Limited**. My aim is to innovate and deliver solutions that enhance digital experiences and streamline workflows.
 
 ---
 
@@ -76,7 +76,7 @@ I am a passionate software developer with experience in creating efficient and s
 
 ### 💼 **Experience**
 
-- **Software Developer** at Motherson Technology Services Limited (July 2024 – Present)  
+- **Software Engineer Trainee** at Motherson Technology Services Limited (July 2024 – Present)  
   - Spearheaded the development of an attendance management system using **Spring Boot** and **MySQL**, incorporating a global API for accurate time zone tracking.
   - Implemented **JPA repository** for efficient data management and ensured real-time check-ins with photo upload verification.
 
