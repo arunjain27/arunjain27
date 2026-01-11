@@ -29,7 +29,7 @@
     </tr>
     <tr>
       <td><strong>GeeksforGeeks:</strong></td>
-      <td><a href="https://geeksforgeeks.org/user/arunjain2704">https://geeksforgeeks.org/user/arunjain2704</a></td>
+      <td><a href="https://github.com/arunjain27">https://github.com/arunjain27</a></td>
     </tr>
   </table>
 </div>
