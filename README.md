@@ -27,10 +27,6 @@
       <td><strong>Email:</strong></td>
       <td><a href="mailto:arunjain2704@gmail.com">arunjain2704@gmail.com</a></td>
     </tr>
-    <tr>
-      <td><strong>GeeksforGeeks:</strong></td>
-      <td><a href="https://github.com/arunjain27">https://github.com/arunjain27</a></td>
-    </tr>
   </table>
 </div>
 
