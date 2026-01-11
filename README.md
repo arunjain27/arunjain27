@@ -20,8 +20,8 @@
       <td><a href="https://arunjain27.github.io">https://arunjain27.github.io</a></td>
     </tr>
     <tr>
-      <td><strong>GitHub:</strong></td>
-      <td><a href="https://github.com/arunjain27">https://github.com/arunjain27</a></td>
+      <td><strong>Leetcode:</strong></td>
+      <td><a href="https://github.com/arunjain27">https://leetcode.com/u/arunjain2704/</a></td>
     </tr>
     <tr>
       <td><strong>Email:</strong></td>
